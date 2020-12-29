@@ -8,7 +8,7 @@ KeyFi Improvement Proposals (KIPs) describe standards for the KeyFi platform, in
 * Add your KIP to your fork of the repository. There is a template KIP here.
 * Submit a Pull Request to KeyFi's KIPs repository.
 
-Your first PR should be a first draft of the final KIP. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new KIP and assign it a number before merging it. Make sure you include a discussions-to header with the URL to a new thread on gov.yearn.finance where people can discuss the KIP as a whole.
+Your first PR should be a first draft of the final KIP. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new KIP and assign it a number before merging it.
 
 If your KIP requires images, the image files should be included in a subdirectory of the assets folder for that KIP as follow: assets/kip-X (for kip X). When linking to an image in the KIP, use relative links such as ../assets/kip-X/image.png.
 
