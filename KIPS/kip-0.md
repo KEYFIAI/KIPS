@@ -8,7 +8,7 @@ created: 2020-12-30
 updated: 2020-12-30
 ---
 
-## What is an KIP?
+## What is a KIP?
 
 KIP stands for KeyFi Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to KeyFi are transparent and well governed. An KIP is a design document providing information to the KeyFi community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
