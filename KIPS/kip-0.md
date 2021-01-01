@@ -10,7 +10,7 @@ updated: 2020-12-30
 
 ## What is a KIP?
 
-KIP stands for KeyFi Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to KeyFi are transparent and well governed. An KIP is a design document providing information to the KeyFi community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
+KIP stands for KeyFi Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to KeyFi are transparent and well governed. A KIP is a design document providing information to the KeyFi community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## KIP Rationale
 
@@ -18,7 +18,7 @@ We intend KIPs to be the primary mechanisms for proposing new features, collecti
 
 It is highly recommended that a single KIP contain a single key proposal or new idea. The more focused the KIP, the more successful it is likely to be.
 
-An KIP must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement.
+A KIP must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement.
 
 ## KIP Work Flow
 
@@ -41,7 +41,7 @@ Deferred
 Each status change is requested by the KIP author and reviewed by the KIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your KIP. The KIP editors will process these requests as per the conditions below.
 
 * **Work in progress (WIP)** -- Once the champion has asked the KeyFi community whether an idea has any chance of support, they will write a draft KIP as a [pull request]. Consider including an implementation if this will aid people in studying the KIP.
-* **Proposed** If agreeable, KIP editor will assign the KIP a number (generally the issue or PR number related to the KIP) and merge your pull request. The KIP editor will not unreasonably deny an KIP. Proposed KIPs will be discussed on governance calls and in Discord. If there is a reasonable level of consensus around the change on the governance call the change will be moved to approved. If the change is contentious a vote of token holders may be held to resolve the issue or approval may be delayed until consensus is reached.
+* **Proposed** If agreeable, KIP editor will assign the KIP a number (generally the issue or PR number related to the KIP) and merge your pull request. The KIP editor will not unreasonably deny a KIP. Proposed KIPs will be discussed on governance calls and in Discord. If there is a reasonable level of consensus around the change on the governance call the change will be moved to approved. If the change is contentious a vote of token holders may be held to resolve the issue or approval may be delayed until consensus is reached.
 * **Approved** -- This KIP has passed community governance and is now being prioritised for development.
 * **Implemented** -- This KIP has been implemented and deployed to mainnet.
 * **Rejected** -- This KIP has failed to reach community consensus.
@@ -147,7 +147,7 @@ If the KIP isn't ready, the editor will send it back to the author for revision,
 
 Once the KIP is ready for the repository, the KIP editor will:
 
-- Assign an KIP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this KIP)
+- Assign a KIP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this KIP)
 
 - Merge the corresponding pull request
 
