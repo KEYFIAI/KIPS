@@ -9,8 +9,6 @@ created: 2021-02-19
 
 <!--You can leave these HTML comments in your merged KIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new KIPs. Note that an KIP number will be assigned by an editor. When opening a pull request to submit your KIP, please use an abbreviated title in the filename, `kip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
-This is the suggested template for new KIPs. Note that an KIP number will be assigned by an editor. When opening a pull request to submit your KIP, please use an abbreviated title in the filename, `kip-draft_title_abbrev.md`. The title should be 44 characters or less.
-
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
 In order to expand the KeyFi platform a greater number of users, we are proposing to allocate 1m KEYFI tokens into the Binance Smart Chain ecosystem including a staking and rewards contract and listing on PancakeSwap.
