@@ -11,15 +11,15 @@ created: 2021-02-19
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
-In order to expand the KeyFi platform a greater number of users, we are proposing to allocate 1m KEYFI tokens into the Binance Smart Chain ecosystem including a staking and rewards contract and listing on PancakeSwap.
+In order to expand the KeyFi platform a greater number of users, we are proposing to allocate 1m KEYFI tokens into the Binance Smart Chain ecosystem including a staking and rewards contract.
 
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the KIP is implemented, not *why* it should be done or *how* it will be done. If the KIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
-If the proposal passes, we will either stake or burn (depending on the result of the vote) 1m KEYFI tokens, taken from the 8m KEYFI community rewards pool and use this to mint 1m KEYFI tokens using BEP20 standard.  Afer minting the new tokens, we propose to allocate 800,000 KEYFI tokens for community rewards and 200,000 KEYFI tokens as liquidity on PancakeSwap.
+If the proposal passes, we will either stake or burn (depending on the result of the vote) 1m KEYFI tokens, taken from the 8m KEYFI community rewards pool and use this to mint 1m KEYFI tokens using BEP20 standard.  Afer minting the new tokens, we propose to allocate 800,000 KEYFI tokens for community rewards and 200,000 treasury and development fund.
 
 ## Motivation
 <!--This is the problem statement. This is the *why* of the KIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the KIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the KIP will address the issue!-->
-Gas prices on Ethereum are leaving many users unable to participate.  Listing the KEYFI token on Binance Smart Chain will this help us reach a larger user base and reduce transaction costs for users, allowing more users the ability to access KEYFI related smart contract deployments.
+Gas prices on Ethereum are leaving many users unable to participate.  Deploying the KEYFI token as a BEP20 token on Binance Smart Chain will this help us reach a larger user base and reduce transaction costs for users, allowing more users the ability to access other KEYFI related smart contract deployments. 
 
 ## Specification
 <!--The specification should describe the syntax and semantics of any new feature, there are five sections
@@ -32,7 +32,11 @@ Gas prices on Ethereum are leaving many users unable to participate.  Listing th
 
 ### Overview
 <!--This is a high level overview of *how* the KIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
-We will implement the following: A BEP20 Token Contract for KEYFI.  Either Burn or Stake 1m KEYFI on Ethereum.  List 200,000 KEYFI tokens on PancakeSwap.  Deploy a KEYFI Rewards contract for Liquidity Providers and other staking rewards and allocate 800,000 KEYFI for community reewards.
+We will implement the following: 
+* A BEP20 Token Contract for KEYFI.  
+* Either Burn or Stake 1m KEYFI on Ethereum (TBD in a proposal if this one is passed.  
+* * Deploy a KEYFI Rewards contract for Liquidity Providers and other staking rewards and allocate 800,000 KEYFI for community reewards.  
+* * Allocate 200,000 KEYFI for KeyFi treasury and development fund.  
 
 ### Rationale
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
