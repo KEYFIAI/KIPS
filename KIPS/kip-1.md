@@ -1,7 +1,7 @@
 ---
 kip: KIP-1
 title: KEYFI Token Allocation on Binance Smart Chain
-status: WIP
+status: Passed
 author: Ben Gervais (@altninja)
 discussions-to: KeyFi Discord Server Channel: #proposal-forum 
 created: 2021-02-19
