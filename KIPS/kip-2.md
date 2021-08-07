@@ -38,7 +38,7 @@ For KEYFI
 * 50% KEYFI Burned
 * 50% KEYFI sent to seed fund for new DEX LP pools
 
-For KEYFI LP Tokena
+For KEYFI LP Tokens
 * 50% Sell the non-KEYFI token for KEYFI then all KEYFI is Burned
 * 50% Sell the non-KEYFI then send to seed fund for new DEX LP pools
 
@@ -60,7 +60,7 @@ The proposal will create a long-term, deflationary, self-sustaining model for on
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces KeyFi Finance currently exposes or the creations of new ones.-->
-Within 48 hours of a successful vote result, the team will manually execute the transactions required to follow the processes outlined above, including both the Ethereum and BSC deposit fee wallets, .   
+Within 48 hours of a successful vote result, the team will manually execute the transactions required to follow the processes outlined above, including both the Ethereum and BSC deposit fee wallets.   
 
 ### Test Cases
 <!--Test cases for an implementation are mandatory for KIPs but can be included with the implementation..-->
