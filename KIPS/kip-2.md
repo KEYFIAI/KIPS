@@ -11,7 +11,7 @@ created: 2021-08-07
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
-In order to being implementation of the long term token economic model, we are proposing to manage the current deposit fees collect from the v2 staking contracts according to the methods described in this post: [KEYFI Token Economic Model 1/3](https://medium.com/keyfi-news/keyfi-staking-and-reward-pools-keyfi-token-economic-model-updates-part-1-3-f936020843b).
+In order to support the implementation of the long term token economic model, we are proposing to manage the current deposit fees collect from the v2 staking contracts according to the methods described in this post: [KEYFI Token Economic Model 1/3](https://medium.com/keyfi-news/keyfi-staking-and-reward-pools-keyfi-token-economic-model-updates-part-1-3-f936020843b).
 
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the KIP is implemented, not *why* it should be done or *how* it will be done. If the KIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
