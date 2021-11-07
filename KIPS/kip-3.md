@@ -38,7 +38,7 @@ KeyFi DAO Treasury
 
 KEYFI Staking Airdrop
 * 1,000,000 KEYFI tokens to be proportionally claimable by all KEYFI staking holders prior to snapshot.
-* Snapshot will take place on December 9th 2022, the 1 year anniversary of the KeyFi Project.
+* Snapshot will take place on December 9th 2021, the 1 year anniversary of the KeyFi Project.
 
 Maintain current KEYFI rewards pool (Ethereum)
 * 1,000,000 KEYFI tokens to fund the staking rewards for another year
